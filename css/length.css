@@ -1,0 +1,15 @@
+.longText {
+	white-space: nowrap;
+	width: 200px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.commentaire {
+	white-space: nowrap;
+	width: 600px;
+	max-width: 601px;
+	overflow: hidden;
+	/*text-overflow: ellipsis;*/
+	word-wrap: break-word;
+}

@@ -1,0 +1,9 @@
+champs input texte
+
+champs texte area
+
+champs type file charger image
+
+case a cocher type checkbox oui ou non articles publie
+
+bouton submit

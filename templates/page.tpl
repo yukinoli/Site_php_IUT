@@ -123,4 +123,8 @@ $(function(){
     }
   });
 });
-
+<script>
+$(document).ready(function() {
+	$("#form_inscription").validate();
+});
+</script>
